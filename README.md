@@ -20,3 +20,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
+I am a Full Stack Developer interested in problem solving with a huge love for React.js, MaterialUI, TailwindCSS and System Design. Currently, **I'm open to work and employment opportunities**.
+
+:clapper: I love to watch intriguing, visually-stunning, and tense movies. 
+
+:video_game: I enjoy competitive gaming and :muscle: brutal workouts.
+
+- :trophy: I was the lead on a team of five for the Final Year Project with responsibility to design and develop a web-based log analytics tool to extract, archive and
+visualize, system and database logs.
+- 🎓 I have graduated with a BS in Computer Science.
+- +1️⃣ I have work experience as a Full Stack Developer.
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👨‍💻 I’m currently open for work and employment opportunities (remote and relocation).
+- 📫 I am just one mail away - [n_mahmood999@yahoo.com]
