@@ -29,7 +29,7 @@ I am a Full Stack Developer interested in problem solving with a huge love for R
 - :trophy: I was the lead on a team of five for the Final Year Project with responsibility to design and develop a web-based log analytics tool to extract, archive and
 visualize, system and database logs.
 - 🎓 I have graduated with a BS in Computer Science.
-- +1️⃣ I have work experience as a Full Stack Developer.
+- +3️⃣ I have work experience as a Full Stack Developer.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👨‍💻 I’m currently open for work and employment opportunities (remote and relocation).
 - 📫 I am just one mail away - [n_mahmood999@yahoo.com]
